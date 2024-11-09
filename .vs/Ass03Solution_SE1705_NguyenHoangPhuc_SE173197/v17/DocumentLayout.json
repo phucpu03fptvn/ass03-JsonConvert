@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ass03Solution_SE1705_NguyenHoangPhuc_SE173197\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F52FA15-7DEB-457C-BA97-1CC5DD6B3F72}|Agriculture_BussinessObject\\Agriculture_BussinessObject.csproj|d:\\ass03solution_se1705_nguyenhoangphuc_se173197\\agriculture_bussinessobject\\agriculture_bussinessobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4F52FA15-7DEB-457C-BA97-1CC5DD6B3F72}|Agriculture_BussinessObject\\Agriculture_BussinessObject.csproj|solutionrelative:agriculture_bussinessobject\\agriculture_bussinessobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 857,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Agriculture_BussinessObject",
+              "DocumentMoniker": "D:\\Ass03Solution_SE1705_NguyenHoangPhuc_SE173197\\Agriculture_BussinessObject\\Agriculture_BussinessObject.csproj",
+              "RelativeDocumentMoniker": "Agriculture_BussinessObject\\Agriculture_BussinessObject.csproj",
+              "ToolTip": "D:\\Ass03Solution_SE1705_NguyenHoangPhuc_SE173197\\Agriculture_BussinessObject\\Agriculture_BussinessObject.csproj",
+              "RelativeToolTip": "Agriculture_BussinessObject\\Agriculture_BussinessObject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-23T03:27:03.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 205,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
