@@ -1,0 +1,41 @@
+[
+  {
+    "UserId": 1,
+    "Name": "Hoàng Phúc",
+    "Email": "admin@gmail.com",
+    "Password": "123",
+    "DateOfBirth": "1990-01-01T00:00:00",
+    "Address": "123 Main Street, City, Country",
+    "PhoneNumber": "123-456-7890",
+    "RoleId": 1,
+    "Role": null,
+    "CreateAt": "2024-11-09T15:41:54.3363292Z",
+    "UpdateAt": "2024-11-09T22:41:54.3858993+07:00"
+  },
+  {
+    "UserId": 2,
+    "Name": "Jane Smith",
+    "Email": "staff@gmail.com",
+    "Password": "123",
+    "DateOfBirth": "1985-05-15T00:00:00",
+    "Address": "456 Another Street, City, Country",
+    "PhoneNumber": "987-654-3210",
+    "RoleId": 2,
+    "Role": null,
+    "CreateAt": "2024-10-22T17:04:23.5333333",
+    "UpdateAt": "2024-10-22T17:04:23.5333333"
+  },
+  {
+    "UserId": 0,
+    "Name": "Nguyễn Thị Tâm Phúc",
+    "Email": "tamphuc@gmail.com",
+    "Password": "123",
+    "DateOfBirth": "2024-11-07T00:00:00",
+    "Address": "Phú Yên",
+    "PhoneNumber": "0123456789",
+    "RoleId": 2,
+    "Role": null,
+    "CreateAt": "2024-11-09T22:42:39.4195853+07:00",
+    "UpdateAt": "2024-11-09T22:42:39.4195878+07:00"
+  }
+]

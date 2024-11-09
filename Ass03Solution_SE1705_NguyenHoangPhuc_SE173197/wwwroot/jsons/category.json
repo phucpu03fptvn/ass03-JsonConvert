@@ -1,0 +1,62 @@
+[
+  {
+    "CategoryId": 1,
+    "CategoryName": "Coffee House",
+    "Description": "Various types of coffee products.",
+    "Products": []
+  },
+  {
+    "CategoryId": 2,
+    "CategoryName": "Tea",
+    "Description": "Different varieties of tea.",
+    "Products": []
+  },
+  {
+    "CategoryId": 3,
+    "CategoryName": "Herbs",
+    "Description": "Fresh herbs and spices.",
+    "Products": []
+  },
+  {
+    "CategoryId": 4,
+    "CategoryName": "Seeds",
+    "Description": "Seeds for planting various crops.",
+    "Products": []
+  },
+  {
+    "CategoryId": 5,
+    "CategoryName": "Vegetables",
+    "Description": "Fresh organic vegetables.",
+    "Products": []
+  },
+  {
+    "CategoryId": 6,
+    "CategoryName": "Spices",
+    "Description": "A variety of spices for cooking.",
+    "Products": []
+  },
+  {
+    "CategoryId": 7,
+    "CategoryName": "Honey",
+    "Description": "Natural honey from local beekeepers.",
+    "Products": []
+  },
+  {
+    "CategoryId": 8,
+    "CategoryName": "Fruits",
+    "Description": "Fresh seasonal fruits.",
+    "Products": []
+  },
+  {
+    "CategoryId": 9,
+    "CategoryName": "Garlic",
+    "Description": "Fresh garlic bulbs.",
+    "Products": []
+  },
+  {
+    "CategoryId": 10,
+    "CategoryName": "Cucumbers",
+    "Description": "Crisp cucumbers for salads.",
+    "Products": []
+  }
+]

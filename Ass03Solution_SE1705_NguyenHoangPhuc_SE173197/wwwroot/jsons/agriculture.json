@@ -1,0 +1,98 @@
+[
+  {
+    "ProductId": 1,
+    "ProductName": "Arabica Coffee",
+    "Price": 160000.0,
+    "StockQuantity": 80,
+    "Description": "High quality arabica coffee beans.",
+    "Thumbnail": null,
+    "CategoryId": 1,
+    "Category": null,
+    "CreatedAt": "2024-11-09T15:48:41.7348901Z",
+    "UpdatedAt": "2024-11-09T15:48:41.7348903Z"
+  },
+  {
+    "ProductId": 3,
+    "ProductName": "Green Tea",
+    "Price": 80000.00,
+    "StockQuantity": 150,
+    "Description": "Organic green tea leaves.",
+    "Thumbnail": "https://i.pinimg.com/736x/2f/46/dd/2f46dddf2fef4e4a8f9759b7503b796e.jpg",
+    "CategoryId": 2,
+    "Category": null,
+    "CreatedAt": "2024-10-29T15:22:21.403323",
+    "UpdatedAt": "2024-10-29T15:22:21.4033235"
+  },
+  {
+    "ProductId": 4,
+    "ProductName": "Black Tea",
+    "Price": 70000.00,
+    "StockQuantity": 120,
+    "Description": "Rich and aromatic black tea.",
+    "Thumbnail": "http://keysofhealth.com/wp-content/uploads/2017/12/Black-tea-1024x727.jpg",
+    "CategoryId": 2,
+    "Category": null,
+    "CreatedAt": "2024-10-22T17:04:23.5333333",
+    "UpdatedAt": "2024-10-22T17:04:23.5333333"
+  },
+  {
+    "ProductId": 5,
+    "ProductName": "Basil",
+    "Price": 50000.00,
+    "StockQuantity": 200,
+    "Description": "Fresh basil leaves.",
+    "Thumbnail": "https://www.tasteofhome.com/wp-content/uploads/2020/05/GettyImages-152891221.jpg",
+    "CategoryId": 3,
+    "Category": null,
+    "CreatedAt": "2024-10-29T15:31:00.8397949",
+    "UpdatedAt": "2024-10-29T15:31:00.8397954"
+  },
+  {
+    "ProductId": 6,
+    "ProductName": "Mint",
+    "Price": 70000.00,
+    "StockQuantity": 180,
+    "Description": "Fresh mint leaves.",
+    "Thumbnail": "https://www.thespruce.com/thmb/okicoeSuE7_m0okpcVNDyKZvQIg=/4726x3151/filters:fill(auto,1)/types-of-mint-5120608-hero-7a3d6d0f70034bcc967080a6d7118967.jpg",
+    "CategoryId": 3,
+    "Category": null,
+    "CreatedAt": "2024-10-30T12:06:31.3279998",
+    "UpdatedAt": "2024-10-30T12:06:31.3280008"
+  },
+  {
+    "ProductId": 7,
+    "ProductName": "Sunflower Seeds",
+    "Price": 402000.00,
+    "StockQuantity": 250,
+    "Description": "Healthy sunflower seeds.",
+    "Thumbnail": "https://www.thespruce.com/thmb/r8x-tSX2hwvkX1bclwSJbj0Mo34=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/save-sunflower-seeds-385625-hero-f5907ea55d434d6ca54cca445cf55a27.jpg",
+    "CategoryId": 4,
+    "Category": null,
+    "CreatedAt": "2024-10-30T12:02:22.84803",
+    "UpdatedAt": "2024-10-30T12:02:22.8480304"
+  },
+  {
+    "ProductId": 8,
+    "ProductName": "Pumpkin Seeds",
+    "Price": 45000.00,
+    "StockQuantity": 220,
+    "Description": "Nutritious pumpkin seeds.",
+    "Thumbnail": "https://c8.alamy.com/comp/A70145/food-medicinal-plant-pumpkin-pumkinseed-kernels-kuerbisskerne-A70145.jpg",
+    "CategoryId": 4,
+    "Category": null,
+    "CreatedAt": "2024-10-22T17:04:23.5333333",
+    "UpdatedAt": "2024-10-22T17:04:23.5333333"
+  },
+  {
+    "ProductId": 0,
+    "ProductName": "Arabica Cà Phê",
+    "Price": 160000.0,
+    "StockQuantity": 7,
+    "Description": "Yến sào khánh hòa bổ dưỡng sức khỏe",
+    "Thumbnail": null,
+    "CategoryId": 5,
+    "Category": null,
+    "CreatedAt": "2024-11-09T15:47:51.8681717Z",
+    "UpdatedAt": "2024-11-09T15:47:51.8681732Z"
+  }
+]
